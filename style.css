@@ -50,7 +50,7 @@ p {
   background-color: var(--white);
   width: 640px;
   height: 100%;
-  margin: 10% auto;
+  margin: 200px auto;
   overflow: hidden;
   border-radius: 20px;
   box-shadow: 9px 10px 36px -3px rgba(0,0,0,0.42);
